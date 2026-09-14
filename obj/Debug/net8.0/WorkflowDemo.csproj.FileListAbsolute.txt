@@ -1,0 +1,14 @@
+/home/ruslan/SourceCode/WorkflowDemo/bin/Debug/net8.0/WorkflowDemo
+/home/ruslan/SourceCode/WorkflowDemo/bin/Debug/net8.0/WorkflowDemo.deps.json
+/home/ruslan/SourceCode/WorkflowDemo/bin/Debug/net8.0/WorkflowDemo.runtimeconfig.json
+/home/ruslan/SourceCode/WorkflowDemo/bin/Debug/net8.0/WorkflowDemo.dll
+/home/ruslan/SourceCode/WorkflowDemo/bin/Debug/net8.0/WorkflowDemo.pdb
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.AssemblyInfoInputs.cache
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.AssemblyInfo.cs
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.csproj.CoreCompileInputs.cache
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.dll
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/refint/WorkflowDemo.dll
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.pdb
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/WorkflowDemo.genruntimeconfig.cache
+/home/ruslan/SourceCode/WorkflowDemo/obj/Debug/net8.0/ref/WorkflowDemo.dll
